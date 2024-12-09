@@ -3,6 +3,7 @@
 
 ## Analysis Overview
 The purpose of this project is to develop a deep learning model to predict the applicants most likely to achieve success. These applicants will then be selected for funding. By analyzing over 34,000 organizations that received funding from Alphabet Soup, the project aims to develop a predictive capability that will help Alphabet Soup optimize its funding.
+The Start_Code.ipynb is located within the Deep Learning Challenge folder to review the code used and the output is located within the repository and saved as trained_model.h5.
 <br>
 
 ## Results
