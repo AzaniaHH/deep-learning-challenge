@@ -1,5 +1,4 @@
-# Alphabet Soup Applicant Success Deep Learning Model Analysis
-<br>
+# Alphabet Soup Applicant Success Analysis
 <br>
 
 ## Analysis Overview
