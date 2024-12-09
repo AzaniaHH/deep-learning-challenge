@@ -13,11 +13,10 @@ The data included application type, organization type, income, and outcome ("IS_
 
 ### Compiling, Training, and Evaluating the Model
 The neurons used were as follows:
-•	Input Layer: Equal to the number of features (after preprocessing, such as one-hot encoding and scaling).
-•	First Hidden Layer: 80 neurons were selected.
-•	Second Hidden Layer: 30 neurons were used.
-•	Output Layer: A single neuron for binary classification (IS_SUCCESSFUL).
-![image](https://github.com/user-attachments/assets/1b1241a1-424d-42e5-b567-da97e63ca733)
+•	Input Layer: Equal to the number of features (after preprocessing, such as one-hot encoding and scaling).<br>
+•	First Hidden Layer: 80 neurons were selected.<br>
+•	Second Hidden Layer: 30 neurons were used.<br>
+•	Output Layer: A single neuron for binary classification (IS_SUCCESSFUL).<br>
 
 ![image](https://github.com/user-attachments/assets/bf640756-dc9c-4447-8402-4d8d9d1e71fa)
 
